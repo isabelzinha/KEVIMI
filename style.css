@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(189, 182, 170);
+}
+
+h1{
+    color: red;
+}
+#saudacao{
+    background-color: rgb(185, 176, 160);
+    text-align: center;
+    color: rgb(78, 54, 54);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#cardapio{
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    height: 210px;
+    align-items: center;
+}
+
+.item{
+    margin-top: 20px;
+}
+
+footer{
+    background-color: rgba(56, 54, 52, 0.096);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    margin-top: 700px;
+    width: 100%;
+
+}

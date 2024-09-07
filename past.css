@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    margin-top: 20px;
+    text-align: center;
+    color: aliceblue;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    color: rgb(219, 143, 30);
+    margin-top: 20px;
+    text-align: center;
+}
+
+.tel{
+    font-family: "Handjet", sans-serif;
+}
+.tel p{
+    margin: 25px 20px 10px 200px;
+}
+
+footer{
+    background-color: rgba(233, 215, 204, 0.267);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-size: smaller;
+    margin-top: 250px;
+    width: 100%;
+}
